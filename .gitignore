@@ -1,0 +1,15 @@
+node_modules
+coverage
+dist
+.DS_Store
+.env
+.env.*
+*.local
+debug.log
+
+# Local assistant config and personal notes, never committed
+.claude/
+CLAUDE.md
+tasks/
+instructions.md
+.dev.vars

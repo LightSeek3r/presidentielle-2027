@@ -1,0 +1,41 @@
+{
+  "name": "presidentielle-2027",
+  "version": "0.1.0",
+  "description": "Data, method and scoring engine of the unit42.fr 2027 French presidential affinity quiz: documented party positions with their sources, Assemblée nationale votes, and the pure TypeScript engine that compares answers with them.",
+  "license": "MIT",
+  "author": "LightSeek3r",
+  "homepage": "https://www.unit42.fr/2027",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightSeek3r/presidentielle-2027.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LightSeek3r/presidentielle-2027/issues"
+  },
+  "keywords": [
+    "election",
+    "france",
+    "presidentielle-2027",
+    "voting-advice",
+    "open-data",
+    "typescript",
+    "civic-tech"
+  ],
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "validate": "node scripts/validate.ts",
+    "robustness": "node scripts/robustness.mjs",
+    "build-votes": "node scripts/build-votes.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "20.19.43",
+    "typescript": "5.9.3",
+    "vitest": "4.1.11"
+  }
+}
