@@ -1,0 +1,1127 @@
+{
+  "extractedAt": "2026-10-15T19:09:55.783Z",
+  "source": "data.assemblee-nationale.fr, Scrutins.json.zip (17e législature)",
+  "legislature": 17,
+  "scrutins": {
+    "468": {
+      "date": "2024-11-28",
+      "titre": "l'amendement de suppression n° 4 de M. Sitzenstuhl et les amendements identiques suivants à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+      "sort": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/468",
+      "groupes": {
+        "PO840056": {
+          "pour": 0,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 0,
+          "contre": 81,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 52,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 2
+        },
+        "PO845413": {
+          "pour": 0,
+          "contre": 69,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 0,
+          "contre": 43,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 13,
+          "contre": 0,
+          "abstentions": 1,
+          "nonVotants": 0
+        },
+        "PO845439": {
+          "pour": 0,
+          "contre": 33,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845454": {
+          "pour": 18,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845470": {
+          "pour": 14,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845485": {
+          "pour": 0,
+          "contre": 2,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845514": {
+          "pour": 0,
+          "contre": 13,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 3,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    },
+    "1214": {
+      "date": "2025-04-02",
+      "titre": "l'amendement n° 55 de M. Garot et l'amendement identique suivant de rétablissement de l'article premier (supprimé) de la proposition de loi visant à lutter contre les déserts médicaux, d'initiative transpartisane (première lecture).",
+      "sort": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1214",
+      "groupes": {
+        "PO840056": {
+          "pour": 1,
+          "contre": 1,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 0,
+          "contre": 50,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 4,
+          "contre": 18,
+          "abstentions": 1,
+          "nonVotants": 1
+        },
+        "PO845413": {
+          "pour": 40,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 50,
+          "contre": 1,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 8,
+          "contre": 6,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845439": {
+          "pour": 19,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845454": {
+          "pour": 7,
+          "contre": 1,
+          "abstentions": 2,
+          "nonVotants": 0
+        },
+        "PO845470": {
+          "pour": 8,
+          "contre": 5,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845485": {
+          "pour": 6,
+          "contre": 1,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845514": {
+          "pour": 10,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 2,
+          "contre": 2,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    },
+    "1243": {
+      "date": "2025-04-03",
+      "titre": "l'article premier de la proposition de loi visant à faire exécuter les peines d’emprisonnement ferme (première lecture).",
+      "sort": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1243",
+      "groupes": {
+        "PO840056": {
+          "pour": 0,
+          "contre": 1,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 23,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 7,
+          "contre": 1,
+          "abstentions": 2,
+          "nonVotants": 2
+        },
+        "PO845413": {
+          "pour": 0,
+          "contre": 19,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 0,
+          "contre": 9,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 5,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845439": {
+          "pour": 0,
+          "contre": 8,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845454": {
+          "pour": 5,
+          "contre": 1,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845470": {
+          "pour": 28,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845485": {
+          "pour": 2,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845514": {
+          "pour": 0,
+          "contre": 1,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 4,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    },
+    "1308": {
+      "date": "2025-04-08",
+      "titre": "l'ensemble de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (texte de la commission mixte paritaire).",
+      "sort": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "groupes": {
+        "PO840056": {
+          "pour": 7,
+          "contre": 2,
+          "abstentions": 1,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 122,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 73,
+          "contre": 0,
+          "abstentions": 4,
+          "nonVotants": 2
+        },
+        "PO845413": {
+          "pour": 0,
+          "contre": 65,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 0,
+          "contre": 61,
+          "abstentions": 3,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 47,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845439": {
+          "pour": 0,
+          "contre": 32,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845454": {
+          "pour": 30,
+          "contre": 1,
+          "abstentions": 3,
+          "nonVotants": 0
+        },
+        "PO845470": {
+          "pour": 32,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845485": {
+          "pour": 13,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845514": {
+          "pour": 0,
+          "contre": 13,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 15,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    },
+    "1473": {
+      "date": "2025-04-29",
+      "titre": "l'ensemble de la proposition de loi visant à sortir la France du piège du narcotrafic (texte de la commission mixte paritaire).",
+      "sort": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1473",
+      "groupes": {
+        "PO840056": {
+          "pour": 8,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 109,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 73,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 1
+        },
+        "PO845413": {
+          "pour": 0,
+          "contre": 60,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 63,
+          "contre": 0,
+          "abstentions": 1,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 38,
+          "contre": 0,
+          "abstentions": 1,
+          "nonVotants": 0
+        },
+        "PO845439": {
+          "pour": 0,
+          "contre": 4,
+          "abstentions": 25,
+          "nonVotants": 0
+        },
+        "PO845454": {
+          "pour": 36,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845470": {
+          "pour": 33,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845485": {
+          "pour": 22,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845514": {
+          "pour": 1,
+          "contre": 4,
+          "abstentions": 7,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 13,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    },
+    "2580": {
+      "date": "2025-06-19",
+      "titre": "l'amendement n° 486 de M. Nury après l'article 5 de la proposition de loi portant programmation nationale énergie et climat pour les années 2025 à 2035 (première lecture).",
+      "sort": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2580",
+      "groupes": {
+        "PO840056": {
+          "pour": 0,
+          "contre": 2,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 57,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 0,
+          "contre": 20,
+          "abstentions": 1,
+          "nonVotants": 1
+        },
+        "PO845413": {
+          "pour": 0,
+          "contre": 14,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 0,
+          "contre": 5,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 4,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845439": {
+          "pour": 0,
+          "contre": 8,
+          "abstentions": 0,
+          "nonVotants": 1
+        },
+        "PO845454": {
+          "pour": 0,
+          "contre": 8,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845470": {
+          "pour": 0,
+          "contre": 4,
+          "abstentions": 2,
+          "nonVotants": 0
+        },
+        "PO845485": {
+          "pour": 0,
+          "contre": 0,
+          "abstentions": 1,
+          "nonVotants": 0
+        },
+        "PO845514": {
+          "pour": 0,
+          "contre": 1,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 4,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    },
+    "3300": {
+      "date": "2025-10-31",
+      "titre": "l'amendement n° 2359 de M. Vallaud et les amendements identiques suivants après l'article 3 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).",
+      "sort": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3300",
+      "groupes": {
+        "PO840056": {
+          "pour": 1,
+          "contre": 3,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 0,
+          "contre": 88,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 0,
+          "contre": 60,
+          "abstentions": 3,
+          "nonVotants": 7
+        },
+        "PO845413": {
+          "pour": 60,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 61,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 0,
+          "contre": 28,
+          "abstentions": 0,
+          "nonVotants": 3
+        },
+        "PO845439": {
+          "pour": 33,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845454": {
+          "pour": 0,
+          "contre": 18,
+          "abstentions": 2,
+          "nonVotants": 1
+        },
+        "PO845470": {
+          "pour": 0,
+          "contre": 21,
+          "abstentions": 1,
+          "nonVotants": 2
+        },
+        "PO845485": {
+          "pour": 5,
+          "contre": 5,
+          "abstentions": 0,
+          "nonVotants": 1
+        },
+        "PO845514": {
+          "pour": 12,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 0,
+          "contre": 5,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    },
+    "3598": {
+      "date": "2025-11-08",
+      "titre": "l'amendement de suppression n° 477 de Mme Corneloup et les amendements identiques suivants à l'article 18 du projet de loi de financement de la sécurité sociale pour 2026 (première lecture).",
+      "sort": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3598",
+      "groupes": {
+        "PO840056": {
+          "pour": 2,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 72,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 3,
+          "contre": 4,
+          "abstentions": 23,
+          "nonVotants": 7
+        },
+        "PO845413": {
+          "pour": 40,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 37,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 11,
+          "contre": 0,
+          "abstentions": 2,
+          "nonVotants": 3
+        },
+        "PO845439": {
+          "pour": 18,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845454": {
+          "pour": 3,
+          "contre": 6,
+          "abstentions": 6,
+          "nonVotants": 1
+        },
+        "PO845470": {
+          "pour": 0,
+          "contre": 13,
+          "abstentions": 2,
+          "nonVotants": 2
+        },
+        "PO845485": {
+          "pour": 2,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 1
+        },
+        "PO845514": {
+          "pour": 3,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 6,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    },
+    "3685": {
+      "date": "2025-11-12",
+      "titre": "l'amendement de suppression n° 706 de Mme Runel et les amendements identiques suivants à l'article 44 (examen prioritaire) du projet de loi de financement de la sécurité sociale pour 2026 (première lecture).",
+      "sort": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3685",
+      "groupes": {
+        "PO840056": {
+          "pour": 3,
+          "contre": 2,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 104,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 2,
+          "contre": 47,
+          "abstentions": 0,
+          "nonVotants": 7
+        },
+        "PO845413": {
+          "pour": 46,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 61,
+          "contre": 0,
+          "abstentions": 1,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 32,
+          "contre": 0,
+          "abstentions": 1,
+          "nonVotants": 3
+        },
+        "PO845439": {
+          "pour": 31,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845454": {
+          "pour": 1,
+          "contre": 23,
+          "abstentions": 3,
+          "nonVotants": 1
+        },
+        "PO845470": {
+          "pour": 0,
+          "contre": 24,
+          "abstentions": 0,
+          "nonVotants": 2
+        },
+        "PO845485": {
+          "pour": 5,
+          "contre": 3,
+          "abstentions": 2,
+          "nonVotants": 1
+        },
+        "PO845514": {
+          "pour": 9,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 14,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    },
+    "4745": {
+      "date": "2025-12-11",
+      "titre": "l'ensemble de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (première lecture).",
+      "sort": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4745",
+      "groupes": {
+        "PO840056": {
+          "pour": 0,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 0,
+          "contre": 28,
+          "abstentions": 1,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 0,
+          "contre": 13,
+          "abstentions": 3,
+          "nonVotants": 1
+        },
+        "PO845413": {
+          "pour": 30,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 54,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 0,
+          "contre": 2,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845439": {
+          "pour": 17,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845454": {
+          "pour": 0,
+          "contre": 4,
+          "abstentions": 0,
+          "nonVotants": 1
+        },
+        "PO845470": {
+          "pour": 0,
+          "contre": 6,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845485": {
+          "pour": 1,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845514": {
+          "pour": 3,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 0,
+          "contre": 3,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    },
+    "6319": {
+      "date": "2026-05-05",
+      "titre": "l'ensemble du projet de loi relatif à la lutte contre les fraudes sociales et fiscales (texte de la commission mixte paritaire).",
+      "sort": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6319",
+      "groupes": {
+        "PO840056": {
+          "pour": 6,
+          "contre": 1,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 109,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 79,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 1
+        },
+        "PO845413": {
+          "pour": 0,
+          "contre": 60,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 0,
+          "contre": 64,
+          "abstentions": 1,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 48,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845439": {
+          "pour": 0,
+          "contre": 34,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845454": {
+          "pour": 34,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845470": {
+          "pour": 33,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845485": {
+          "pour": 10,
+          "contre": 7,
+          "abstentions": 4,
+          "nonVotants": 0
+        },
+        "PO845514": {
+          "pour": 0,
+          "contre": 16,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 16,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    },
+    "6736": {
+      "date": "2026-05-19",
+      "titre": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (première lecture).",
+      "sort": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6736",
+      "groupes": {
+        "PO840056": {
+          "pour": 10,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 119,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 88,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845413": {
+          "pour": 0,
+          "contre": 71,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 64,
+          "contre": 1,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 47,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845439": {
+          "pour": 1,
+          "contre": 36,
+          "abstentions": 1,
+          "nonVotants": 0
+        },
+        "PO845454": {
+          "pour": 37,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845470": {
+          "pour": 35,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845485": {
+          "pour": 23,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845514": {
+          "pour": 0,
+          "contre": 14,
+          "abstentions": 3,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 16,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    },
+    "7405": {
+      "date": "2026-06-16",
+      "titre": "l'ensemble de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat (texte de la commission mixte paritaire).",
+      "sort": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "groupes": {
+        "PO840056": {
+          "pour": 7,
+          "contre": 1,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 117,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 86,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 1
+        },
+        "PO845413": {
+          "pour": 0,
+          "contre": 67,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 0,
+          "contre": 62,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 47,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845439": {
+          "pour": 0,
+          "contre": 35,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845454": {
+          "pour": 26,
+          "contre": 0,
+          "abstentions": 1,
+          "nonVotants": 0
+        },
+        "PO845470": {
+          "pour": 33,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845485": {
+          "pour": 12,
+          "contre": 0,
+          "abstentions": 9,
+          "nonVotants": 0
+        },
+        "PO845514": {
+          "pour": 0,
+          "contre": 12,
+          "abstentions": 1,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 17,
+          "contre": 0,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    },
+    "7894": {
+      "date": "2026-06-30",
+      "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
+      "sort": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
+      "groupes": {
+        "PO840056": {
+          "pour": 3,
+          "contre": 7,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845401": {
+          "pour": 14,
+          "contre": 103,
+          "abstentions": 5,
+          "nonVotants": 0
+        },
+        "PO845407": {
+          "pour": 66,
+          "contre": 17,
+          "abstentions": 7,
+          "nonVotants": 0
+        },
+        "PO845413": {
+          "pour": 62,
+          "contre": 2,
+          "abstentions": 3,
+          "nonVotants": 0
+        },
+        "PO845419": {
+          "pour": 57,
+          "contre": 4,
+          "abstentions": 5,
+          "nonVotants": 0
+        },
+        "PO845425": {
+          "pour": 5,
+          "contre": 38,
+          "abstentions": 3,
+          "nonVotants": 0
+        },
+        "PO845439": {
+          "pour": 34,
+          "contre": 1,
+          "abstentions": 2,
+          "nonVotants": 0
+        },
+        "PO845454": {
+          "pour": 19,
+          "contre": 16,
+          "abstentions": 0,
+          "nonVotants": 0
+        },
+        "PO845470": {
+          "pour": 16,
+          "contre": 18,
+          "abstentions": 1,
+          "nonVotants": 0
+        },
+        "PO845485": {
+          "pour": 9,
+          "contre": 7,
+          "abstentions": 6,
+          "nonVotants": 0
+        },
+        "PO845514": {
+          "pour": 10,
+          "contre": 2,
+          "abstentions": 3,
+          "nonVotants": 0
+        },
+        "UDR": {
+          "pour": 0,
+          "contre": 17,
+          "abstentions": 0,
+          "nonVotants": 0
+        }
+      }
+    }
+  }
+}
