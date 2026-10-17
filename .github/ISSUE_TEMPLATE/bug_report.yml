@@ -1,0 +1,21 @@
+name: Bug report
+description: The engine, the vote data, a script or a test does not behave as documented
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you ran or computed, what you expected (with the rule in METHOD.md if relevant), and what you got.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How to reproduce
+      placeholder: npm test, or a small set of answers
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      placeholder: v0.1.0

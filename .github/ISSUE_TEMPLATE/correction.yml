@@ -1,0 +1,52 @@
+name: "Correction: wrong or unsourced position"
+description: A party position, a vote coding or a source that is wrong, outdated or missing
+title: "Correction: "
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Une position ne change qu'avec une source vérifiable du parti ou de son candidat.
+        A position only changes with a verifiable source from the party or its candidate.
+  - type: input
+    id: question
+    attributes:
+      label: Question or measure
+      description: The `id` from src/data/questions.ts or the file name in src/data/impact/
+      placeholder: retraites-age
+    validations:
+      required: true
+  - type: input
+    id: party
+    attributes:
+      label: Party
+      placeholder: lfi, rn, ren ...
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: What is coded today
+      description: The option(s) the party backs now, or "no position", and the source cited.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What it should be
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: Link, publication date, and the exact passage (page or section). It must come from the party or its candidate.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: The source is a document or statement of the party or its candidate, with its date and the passage used
+          required: true
