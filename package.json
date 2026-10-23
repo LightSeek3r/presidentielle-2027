@@ -1,6 +1,6 @@
 {
   "name": "presidentielle-2027",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Data, method and scoring engine of the unit42.fr 2027 French presidential affinity quiz: documented party positions with their sources, Assemblée nationale votes, and the pure TypeScript engine that compares answers with them.",
   "license": "MIT",
   "author": "LightSeek3r",

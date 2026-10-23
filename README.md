@@ -7,7 +7,7 @@
   <a href="https://github.com/LightSeek3r/presidentielle-2027/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/LightSeek3r/presidentielle-2027/actions/workflows/ci.yml/badge.svg"></a>
   <a href="LICENSE"><img alt="Code: MIT" src="https://img.shields.io/badge/code-MIT-1d5bbf"></a>
   <a href="LICENSE-DATA.md"><img alt="Data: CC BY 4.0" src="https://img.shields.io/badge/data-CC%20BY%204.0-1d5bbf"></a>
-  <a href="CHANGELOG.md"><img alt="Version 0.1.0" src="https://img.shields.io/badge/version-0.1.0-1d5bbf"></a>
+  <a href="CHANGELOG.md"><img alt="Version 0.1.1" src="https://img.shields.io/badge/version-0.1.1-1d5bbf"></a>
 </p>
 
 <p align="center">
