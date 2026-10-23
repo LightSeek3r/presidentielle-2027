@@ -5,6 +5,13 @@ All notable changes to this repository are listed here. The format follows
 [Semantic Versioning](https://semver.org) loosely while the project is 0.x. The data carries its
 own versions (`DATA_VERSION`, `IMPACT_VERSION` in `src/data/meta.ts`).
 
+## [0.1.1] - 2026-10-23
+
+### Security
+
+- Test tooling: `vitest` 4.1.12 clears two advisories in its mocker. No change to the data,
+  the method or the engine.
+
 ## [0.1.0] - 2026-10-17
 
 The first published version of the data, method and engine behind
@@ -49,4 +56,5 @@ the work since the quiz started on 2026-10-11. Data version `2026-10-v1.1`, impa
   is its 2025 booklet, and an LCP article on low-emission zones carries its publication date
   (17 October).
 
+[0.1.1]: https://github.com/LightSeek3r/presidentielle-2027/releases/tag/v0.1.1
 [0.1.0]: https://github.com/LightSeek3r/presidentielle-2027/releases/tag/v0.1.0
